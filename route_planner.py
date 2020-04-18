@@ -43,4 +43,5 @@ def shortest_route(start_from, start, goal):
     
     path.append(start)
     path.reverse()
+    print(path)
     return path
