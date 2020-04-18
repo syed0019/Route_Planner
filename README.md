@@ -1,2 +1,2 @@
 # Route_Planner
-In this project, I built a route-planning algorithm like the one used in Google Maps to calculate the shortest path between two points on a map.
+In this project, I used A* search to implement a "Google-maps" style route planning algorithm to calculate the shortest path between two points on a map. 
